@@ -1,5 +1,3 @@
-from turtle import left
-
 
 class Node:
     def __init__(self, value, left, right, direction, parent, color="red"):
